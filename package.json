@@ -1,0 +1,24 @@
+{
+  "name": "faceted-react",
+  "version": "0.0.0",
+  "description": "A faceted search widget for React",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/georgebonnr/faceted-react.git"
+  },
+  "keywords": [
+    "faceted",
+    "search",
+    "react"
+  ],
+  "author": "George Bonner and Randall Leeds",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/georgebonnr/faceted-react/issues"
+  },
+  "homepage": "https://github.com/georgebonnr/faceted-react"
+}
