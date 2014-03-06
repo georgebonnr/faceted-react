@@ -13,5 +13,7 @@ var FacetedSearch = React.createClass({
         return s.trim();
       });
     });
+
+    return [];
   }
 });
